@@ -1,9 +1,6 @@
 /* Styling the welcome page */
 .welcome-page {
   display: flex;
-  background-image: url('C:\Users\Vivek Gupta\OneDrive\Desktop\react\myapp\src\assets\background1.jpg'); /* Replace with actual background image URL */
-  background-size: cover;
-  height: 100vh;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -87,9 +84,6 @@
 /* Styling the end page */
 .end-page {
   display: flex;
-  background-image: url('C:\Users\Vivek Gupta\OneDrive\Desktop\react\myapp\src\assets\background1.jpg'); /* Replace with actual background image URL */
-  background-size: cover;
-  height: 100vh;
   flex-direction: column;
   align-items: center;
   justify-content: center;
