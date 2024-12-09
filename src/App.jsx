@@ -70,7 +70,7 @@ const LevelPage = () => {
 
   const handleAnswer = () => {
     if (!input.trim()) {
-      alert("abey anpadd ullu gadhi ans toh de ya pata nhi.");
+      alert("abey anpadd ullu gadhi ans toh de ya pata nhi aur thoda slow jaa image load hone de .");
       return;
     }
 
