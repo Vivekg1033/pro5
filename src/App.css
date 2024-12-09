@@ -29,9 +29,6 @@
 /* Styling the level page */
 .level-page {
   display: flex;
-  background-image: url('C:\Users\Vivek Gupta\OneDrive\Desktop\react\myapp\src\assets\background2.jpg'); /* Replace with actual background image URL */
-  background-size: cover;
-  height: 100vh;
   flex-direction: column;
   align-items: center;
   background-color: #f9f9f9;
